@@ -3,7 +3,6 @@
 #May need to update IP Address restriction at console.cloud.google.com
 
 #Comments here are returned as if you sorted by "Newest First" on YouTube
-#Will make adjustments to return as if sorted by "Top Comments" on YouTube
 
 import os
 import googleapiclient.discovery
@@ -18,7 +17,7 @@ def main():
 
     api_service_name = "youtube"
     api_version = "v3"
-    DEVELOPER_KEY = "InsertAPIKeyBeforeNextUse"
+    DEVELOPER_KEY = "InsertAPIKeyBeforeRunning"
 
     youtube = googleapiclient.discovery.build(
         api_service_name, api_version, developerKey = DEVELOPER_KEY)
@@ -37,7 +36,6 @@ def main():
     nextPageToken = response['nextPageToken']
 
     #Calling the API subsequent times
-    #Does YouTube Data API limit to 400 comments?
     maxPage = 19
     for x in range(0, maxPage):
         request = youtube.commentThreads().list(
@@ -52,24 +50,19 @@ def main():
         else:
             nextPageToken = response['nextPageToken']
     
+    #Writing returned values from API to Output.json
     listToWrite = json.dumps(returnedValues, indent=4)
     with open("Output.json", "w") as outfile:
         outfile.write(listToWrite)
 
-    #getting comments
-    #The scheme is "items" -> (now in list) "snippet" -> "topLevelComment" -> "snippet" -> "textDisplay"
-    #Print the value of each snippet -> topLevelComment -> snippet -> textDisplay inside items[0]
+    #Putting comments in legible format, so they can be written to ExtractedComments.txt
     storedValue = ''
     for i in range(0, len(returnedValues)):
         for j in range(0, len(returnedValues[i]['items'])):
             storedValue = storedValue + (str(i * 20 + j + 1) + ". " + str(returnedValues[i]['items'][j]['snippet']['topLevelComment']['snippet']['textDisplay']) + "\n")
-        #storedValue = storedValue + (str(i + 1) + ". " + str(lowerLevel[i]['snippet']['topLevelComment']['snippet']['textDisplay'])) + "\n"
-    print(storedValue)
-    #Not currently able to encode all of the comments for writing to ExtractedComments.txt file
-
-    #adding this to write to Output file
-    #json_object = json.dumps(response, indent=4)
-    #with open("Output.json", "w") as outfile:
-    #    outfile.write(json_object)
+    
+    #Writing comments to ExtractedComments.txt
+    with open("ExtractedComments.txt", "w", encoding="UTF-8") as outfile:
+        outfile.write(storedValue)
 
 main()
