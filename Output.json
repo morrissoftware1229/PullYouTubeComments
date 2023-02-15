@@ -1,0 +1,651 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "2cajR5zmXI-AqEh2Hzx8qMqU7uk",
+    "nextPageToken": "QURTSl9pMjVlQVJNcGVxSUdBOS1KLTk4R29QS21MRk04bjJBWE5nVXRpUjVFcS1IMkw3ZVRMSzBtbjVXWHkwbE5KU2lhUlJ1dmhlZUxvYw==",
+    "pageInfo": {
+        "totalResults": 20,
+        "resultsPerPage": 20
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "lMfH1tyKojiNQ3J03E7SoBDlXlg",
+            "id": "UgybLDttvHlZ5aZ67UN4AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "XBcMj3bpcximlU_XuCqDi8Er9jM",
+                    "id": "UgybLDttvHlZ5aZ67UN4AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "I accidentally blew up my furnace with a bomb",
+                        "textOriginal": "I accidentally blew up my furnace with a bomb",
+                        "authorDisplayName": "redvelvet_tears",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/SJTsFTH-d6tD4vv-8SRRNvLyU5Tj4WkdAhCWl6tWI8hapK0FFpyjfmf6e3mubeasgEM08sDY=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCbIkLRBKV92xn0U3ORaeObw",
+                        "authorChannelId": {
+                            "value": "UCbIkLRBKV92xn0U3ORaeObw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-02-13T18:51:22Z",
+                        "updatedAt": "2023-02-13T18:51:22Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ugpTUqda_eWjaJX3DVq4yc5umBw",
+            "id": "UgxcyRmL6lwLMsYESs94AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "O-wpkkKPIKORL785YVPEep5r1aA",
+                    "id": "UgxcyRmL6lwLMsYESs94AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "i accidentally killed my ancient plant once. Immediately reseted the day",
+                        "textOriginal": "i accidentally killed my ancient plant once. Immediately reseted the day",
+                        "authorDisplayName": "Alicia Marrow",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJV-x5rBiQP6BWOn4szr-dLadck8sWkgV2a6fFwzLQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC0bpH7ieeoO0_v6FQRbQfBw",
+                        "authorChannelId": {
+                            "value": "UC0bpH7ieeoO0_v6FQRbQfBw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-02-05T11:48:52Z",
+                        "updatedAt": "2023-02-05T11:48:52Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "55bBdS5YslpbYczqEctmf4OYPD4",
+            "id": "UgyyPEMcB0YOsN3qE_J4AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "AQ0SGwgrKqZIYMJ8A8kdAcP37FI",
+                    "id": "UgyyPEMcB0YOsN3qE_J4AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "Me when I axe my first ancient tree",
+                        "textOriginal": "Me when I axe my first ancient tree",
+                        "authorDisplayName": "Samuel Ling",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJXscKGOrF0Dd3ek1XtKIxtG0-Dp1LCt6aTCONE=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC3KR-cmZF0tsCPk88jycidQ",
+                        "authorChannelId": {
+                            "value": "UC3KR-cmZF0tsCPk88jycidQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-01-08T11:54:36Z",
+                        "updatedAt": "2023-01-08T11:54:36Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "1z8W4CNeKLJLnBG6QtAtmVTgW9Q",
+            "id": "Ugx0d5jhJdXye-RlzB54AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "DowJssDLb5mb1SOAWHjtpzHhONA",
+                    "id": "Ugx0d5jhJdXye-RlzB54AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "I did that but with ancient seeds",
+                        "textOriginal": "I did that but with ancient seeds",
+                        "authorDisplayName": "Torchlight_137",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/sAH2tRs3YMa21tzOc-XNWZxiIMQnVCBFEOBenCRT8jjC9mfq1qyCrtDMwZsnghHiv--ecoikeQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC-LcBKHSdV5BnMx7sttGOgw",
+                        "authorChannelId": {
+                            "value": "UC-LcBKHSdV5BnMx7sttGOgw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-12-28T23:32:15Z",
+                        "updatedAt": "2022-12-28T23:32:15Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "0iV4VzMwz6KwxXA0JgpJSZYOGSU",
+            "id": "Ugxk42voWHhuBGA2R594AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "g_OlUMFKDtPRXb4KVclN2JzudaQ",
+                    "id": "Ugxk42voWHhuBGA2R594AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "Everywon NOOOOOOOOOOOOOOO<br>Me: RELOD THE DAY",
+                        "textOriginal": "Everywon NOOOOOOOOOOOOOOO\nMe: RELOD THE DAY",
+                        "authorDisplayName": "uiu \u00e9lite",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/K0Hohwk27fzc5so1lXTKSwSTbGi4Dzz7FjIx9FmZCOojmQUA5c_VbZYMGNG5SG1PgJ1WJgCKsCI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCccSFZLA8Z1_LPqkuDavnnA",
+                        "authorChannelId": {
+                            "value": "UCccSFZLA8Z1_LPqkuDavnnA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-11-25T18:10:09Z",
+                        "updatedAt": "2022-11-25T18:10:09Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "3x-YfbsnWIrGCxax9bIHvip_Aws",
+            "id": "UgwY3ZLyFN4bJYNtG7J4AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Dcs-6UFdB4VR8DfQB60NVHIY-XU",
+                    "id": "UgwY3ZLyFN4bJYNtG7J4AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "Pov: you bought the perfect amount of seeds. But you miss click and waste 1 . So you go to the store to buy another and either pierre is gone or you haven&#39;t got enough money...",
+                        "textOriginal": "Pov: you bought the perfect amount of seeds. But you miss click and waste 1 . So you go to the store to buy another and either pierre is gone or you haven't got enough money...",
+                        "authorDisplayName": "Green-Souled-Ghost",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/MVG4-ZJ4OpSug6SyYPL0pt6_nBnDJORPycQyIFkJiDpyKykxxVhCzxzHFN8Yz11k3NthufA0OMs=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCTPAckjjRlg-wFAUPmZ0VIQ",
+                        "authorChannelId": {
+                            "value": "UCTPAckjjRlg-wFAUPmZ0VIQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-08-24T12:18:26Z",
+                        "updatedAt": "2022-08-24T12:18:26Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "4cp-aN-593OpzPBVStsS7-d1R_E",
+            "id": "UgzFuDOkq7PhN8iGx-x4AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "FL8A18P6nbx0fUcpI5Ub8_x0F9g",
+                    "id": "UgzFuDOkq7PhN8iGx-x4AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "Accidentally putting stuff in the trash...<br><br><br>Probably only happens to controller people",
+                        "textOriginal": "Accidentally putting stuff in the trash...\n\n\nProbably only happens to controller people",
+                        "authorDisplayName": "Moody Midnight",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ORiLivXijYP0WWo-PFoE-C5y1beYSSuTPoUPIhzSTLMeymL5GGQ6phPAHfNvycVf1-4dzFNOytI=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC76S5L0exj3EZ2fTJ3Qe1VQ",
+                        "authorChannelId": {
+                            "value": "UC76S5L0exj3EZ2fTJ3Qe1VQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-08-21T22:46:15Z",
+                        "updatedAt": "2022-08-21T22:46:15Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "ZfdBlYngR_E_dkNk_Rxb94L98Ug",
+            "id": "UgwbguFoSp1kc3QzwQx4AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "6ObInACnozBvN5fc7jsSyWKFuCc",
+                    "id": "UgwbguFoSp1kc3QzwQx4AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "my worst misclick was accidentally gifting sebastian bait",
+                        "textOriginal": "my worst misclick was accidentally gifting sebastian bait",
+                        "authorDisplayName": "Long Live Pepe",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/3PqVI5iuZddsNb13L3lJg1xmU8J84wVVt0r9TkZNIAhZ0y4t3_qlUAKqv1TffGk6SL4mAxXV=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCfljAvNYAbLmBTnf8Tvg2ew",
+                        "authorChannelId": {
+                            "value": "UCfljAvNYAbLmBTnf8Tvg2ew"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-08-19T14:17:51Z",
+                        "updatedAt": "2022-08-19T14:17:51Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "9aoILnEPy1_nB8Mj3NM2MuHHzMA",
+            "id": "Ugw4v0bA90eEbM6W_hB4AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "l3_67O8JjZzJvp8rFmi946btpgg",
+                    "id": "Ugw4v0bA90eEbM6W_hB4AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "What I really don&#39;t like about Stardew Valley is that on your first day, 15 seeds were given to you and you planted them in the garden and a day later a crow destroyed the harvest.The worst part is that you don&#39;t have enough farming level to craft a scarecrow",
+                        "textOriginal": "What I really don't like about Stardew Valley is that on your first day, 15 seeds were given to you and you planted them in the garden and a day later a crow destroyed the harvest.The worst part is that you don't have enough farming level to craft a scarecrow",
+                        "authorDisplayName": "Ellain Ros",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/eL8YUI_dN5jwkZ8_QX4ICiSz50zDTaNk2gJb0Oy3NlGTLIBxP4Qvm7ZP0-4sMOQOrldgs3P2eA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCAlodtE0ukevKgx6F2L6VtQ",
+                        "authorChannelId": {
+                            "value": "UCAlodtE0ukevKgx6F2L6VtQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-08-11T18:10:02Z",
+                        "updatedAt": "2022-08-11T18:10:02Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "YRGj16waKIqbMXb7NELwuMv6EN4",
+            "id": "Ugxpe-vkoxXykUb5ZMV4AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "SpM8eitYQnVWKLBdq90aV6lOtUI",
+                    "id": "Ugxpe-vkoxXykUb5ZMV4AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "i disliked how willy goes out at 5 pm to fish in the docks. cuz that&#39;s also the time i would collect from my crab pots. so far though i&#39;ve only made a mistake two times, giving him Bait(gave him pumpkins for compensation anyways). I should prolly just remove the crab pots on that spot later.",
+                        "textOriginal": "i disliked how willy goes out at 5 pm to fish in the docks. cuz that's also the time i would collect from my crab pots. so far though i've only made a mistake two times, giving him Bait(gave him pumpkins for compensation anyways). I should prolly just remove the crab pots on that spot later.",
+                        "authorDisplayName": "wyne",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/kPlVwrpbh48D2ZUK5P3p2iMqXxxPLvf1BnXnn_ld_0pfMLStgnbISZ7CXdi_hQo65E9KJBJWag=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCcF32fJYDli8c1dffST1cNA",
+                        "authorChannelId": {
+                            "value": "UCcF32fJYDli8c1dffST1cNA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-07-21T07:29:38Z",
+                        "updatedAt": "2022-07-21T07:29:38Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "zM1K1rOY92U9UTRPAIBwSs8IMKU",
+            "id": "Ugxg8SPik4Dy8PxW-XN4AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "fnSHK9_JLXjoc4nEUCwAk7U9wT4",
+                    "id": "Ugxg8SPik4Dy8PxW-XN4AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "this is so hilarious \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                        "textOriginal": "this is so hilarious \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                        "authorDisplayName": "Imeee",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJXSQITWAAawStjlL3KFAW8XvSUqrVaySHo1=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCWoGwjbC25oVDffB2SADggw",
+                        "authorChannelId": {
+                            "value": "UCWoGwjbC25oVDffB2SADggw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-07-15T12:44:38Z",
+                        "updatedAt": "2022-07-15T12:44:38Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "of3rmFRAxp1YOjJS_JjjerQD1r8",
+            "id": "UgxvW-vhRV79Nzb9V6B4AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "YFkOvgEGHtwW49cAzB7tfKlevB8",
+                    "id": "UgxvW-vhRV79Nzb9V6B4AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "Omg this is so relatable o-o<br>But there is a solution! You can leave the world to go back to title screen, and go back on the world then the day resets<br>(Or mabey that&#39;s just Xbox)",
+                        "textOriginal": "Omg this is so relatable o-o\nBut there is a solution! You can leave the world to go back to title screen, and go back on the world then the day resets\n(Or mabey that's just Xbox)",
+                        "authorDisplayName": "Is Ca",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJUS31F4Ups7MYfERkKKJjryjm6TU0-j36bR7iAocMYXZ8-1Yv8QZPYrtY3ST4wY=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCxrOPzC1iMeyNuLXBkeTnJA",
+                        "authorChannelId": {
+                            "value": "UCxrOPzC1iMeyNuLXBkeTnJA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-07-15T02:56:47Z",
+                        "updatedAt": "2022-07-15T02:57:09Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "e5WNJ-lOBOvuYToAz6mmsGZLEew",
+            "id": "Ugwv2TzJpT2sicMAcjd4AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "pW0LYRwc24b5Ap3W41AgFMGFDR0",
+                    "id": "Ugwv2TzJpT2sicMAcjd4AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "I did that with my first ancient fruit...",
+                        "textOriginal": "I did that with my first ancient fruit...",
+                        "authorDisplayName": "a random person",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/U0cTP7tehS12PiZy8UwiBfylzr_lJtpMuLvr9VSO8lGHhtXSPo-691nD187-aMOk69AiYtGn=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC3l38rA9CbYRMQJ6Ot-4zoA",
+                        "authorChannelId": {
+                            "value": "UC3l38rA9CbYRMQJ6Ot-4zoA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-07-11T20:47:46Z",
+                        "updatedAt": "2022-07-11T20:47:46Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "hAb41hijaCHjhMuC1Wlw_HbXSpw",
+            "id": "UgwPQt3m8x_c8OJPezJ4AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "YlJG7DKS_ZPrzPaLCP66Tc40D_U",
+                    "id": "UgwPQt3m8x_c8OJPezJ4AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "Just got those who don&#39;t know, you can reset the day by just leaving to the title screen, this game only outo saves when you sleep",
+                        "textOriginal": "Just got those who don't know, you can reset the day by just leaving to the title screen, this game only outo saves when you sleep",
+                        "authorDisplayName": "TheRadiantBeast",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJUmKKWPDj0K1fsRCvpnBfdPjAXbrz-FIZJ9GdEu=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCG33bRquqaNo0zsIW2uJ7tA",
+                        "authorChannelId": {
+                            "value": "UCG33bRquqaNo0zsIW2uJ7tA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-07-08T23:19:36Z",
+                        "updatedAt": "2022-07-08T23:19:36Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Y0MDKObAy_g1DmUvjAyyWjfGJus",
+            "id": "UgwRcnz_b01GUQ6agQR4AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "im7-dOqdHhdRxtoYj0ANPWPxyrY",
+                    "id": "UgwRcnz_b01GUQ6agQR4AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "This is why i buy extra seeds",
+                        "textOriginal": "This is why i buy extra seeds",
+                        "authorDisplayName": "Bicarbonato De \u00d3dio",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJUReODgtB7g_T6_b7laLM6_CcDf3Z8eea9gweQBLg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCBBF3-dJBVSnmy6Jv5W-CEA",
+                        "authorChannelId": {
+                            "value": "UCBBF3-dJBVSnmy6Jv5W-CEA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-07-08T14:48:59Z",
+                        "updatedAt": "2022-07-08T14:48:59Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "GNOynheUEMq3haNzT7sGU3WnLkQ",
+            "id": "UgwzPooQwttlk4SDPLx4AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Z_FTsNjXMy6cjfRDI_ttKWtHJAc",
+                    "id": "UgwzPooQwttlk4SDPLx4AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "THIS SHOULD NOT HAVE MADE ME SNORT AND CHOKE ON MY OWN SPIT BUT HERE I AM",
+                        "textOriginal": "THIS SHOULD NOT HAVE MADE ME SNORT AND CHOKE ON MY OWN SPIT BUT HERE I AM",
+                        "authorDisplayName": "re nata",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJUAUHryHLk2lb2SPIbagFHBQZ0Otd1ar4nj-XcNBxbDozr2EFMH_BNdpcFfRGXs=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCppdMu3cyy5qmzI5kFzZtDQ",
+                        "authorChannelId": {
+                            "value": "UCppdMu3cyy5qmzI5kFzZtDQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-07-05T03:21:43Z",
+                        "updatedAt": "2022-07-05T03:21:43Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "qKgi6IKpf0LOCcFVPLTz2fkzyRk",
+            "id": "Ugxkg5qXKqLrh3ZPrwh4AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "7xIWIGQD50HI81bjFjGFe4YOjTY",
+                    "id": "Ugxkg5qXKqLrh3ZPrwh4AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "I was talking to Emily on my first ever playthrough and got to the point where she was telling me about the parrots. At the time, I had my spelunking setup equipped, so I kept pressing the continue dialog button to hear more of what she had to say and, instead of hearing anymore of her thoughts, my character proceeds to shiv her like she was an inmate my farmer had beef with.",
+                        "textOriginal": "I was talking to Emily on my first ever playthrough and got to the point where she was telling me about the parrots. At the time, I had my spelunking setup equipped, so I kept pressing the continue dialog button to hear more of what she had to say and, instead of hearing anymore of her thoughts, my character proceeds to shiv her like she was an inmate my farmer had beef with.",
+                        "authorDisplayName": "Cool Guy Aspie",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/2BSRdliar8m89ScEexkmYI-wVKqWwwYzoq2X7e2q4BWQzMd1m7kRIn2ES2mDfI5pTSXW-SdyQzM=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCMEGqRNUNKCrtieHV_hHjiQ",
+                        "authorChannelId": {
+                            "value": "UCMEGqRNUNKCrtieHV_hHjiQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-07-01T20:47:41Z",
+                        "updatedAt": "2022-07-01T20:47:41Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "G9WI-FlISTfjp1fJQ9TLD_P4JI4",
+            "id": "UgyHvIyhpjVEFIx5ZjJ4AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "AwdBmMZG6x2nKOFZYnBtrY3ISUc",
+                    "id": "UgyHvIyhpjVEFIx5ZjJ4AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "My picking the video with a gun on it was a misclick..",
+                        "textOriginal": "My picking the video with a gun on it was a misclick..",
+                        "authorDisplayName": "Trappist 1D",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/USIvjh3VfVT1EGpTcoyEKQNugOEChwAwEOvhuQRN64kn4BwYDHwXuztmVObCoi5jhgkKCfGSIN4=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCdFBk0hIPMfhKzXbiE6zK6A",
+                        "authorChannelId": {
+                            "value": "UCdFBk0hIPMfhKzXbiE6zK6A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-07-01T06:56:51Z",
+                        "updatedAt": "2022-07-01T06:56:51Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "5coTmSC6ClCU7GxcSqVPDF6j484",
+            "id": "Ugy5hVGNWceF6TN77IR4AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "acG_naBDUJ-aHTMTovXodXtIioc",
+                    "id": "Ugy5hVGNWceF6TN77IR4AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "\ud83d\ude06 I did this on console tonight, right after planting a hops trellis at, like, 8 at night. \ud83d\ude3e lol",
+                        "textOriginal": "\ud83d\ude06 I did this on console tonight, right after planting a hops trellis at, like, 8 at night. \ud83d\ude3e lol",
+                        "authorDisplayName": "gamewrit005",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/O2varfdnYhQKtcuRnhcStz8sx_BRpU3to_unUXqRmTHl21UN968iuoE9KrQDUf88p6bXLLlHfQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCfh4Qxy-02u54ewwVdctt7A",
+                        "authorChannelId": {
+                            "value": "UCfh4Qxy-02u54ewwVdctt7A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2022-06-29T03:40:46Z",
+                        "updatedAt": "2022-06-29T03:41:05Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "UJed9N6y_XVd1KXtrO8vjUmoVcQ",
+            "id": "Ugzaxyn5PjMPizXoj9p4AaABAg",
+            "snippet": {
+                "videoId": "l1LdFUFFRBQ",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "5Vn1snRgr0fsd4DiFLHcA-rOzXI",
+                    "id": "Ugzaxyn5PjMPizXoj9p4AaABAg",
+                    "snippet": {
+                        "videoId": "l1LdFUFFRBQ",
+                        "textDisplay": "When your pumpkins are finally gonna grow in the next day and you accidentally use a pickaxe on it and now you won\u2019t have time grow a new one",
+                        "textOriginal": "When your pumpkins are finally gonna grow in the next day and you accidentally use a pickaxe on it and now you won\u2019t have time grow a new one",
+                        "authorDisplayName": "Oty",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJVxnMJOuBtvNphNsMsCQCUccW6V6J-sTTeSW8QnaA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC9DvdfE6-iRVi_tTh-iya0Q",
+                        "authorChannelId": {
+                            "value": "UC9DvdfE6-iRVi_tTh-iya0Q"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2022-06-23T14:45:36Z",
+                        "updatedAt": "2022-06-23T14:45:36Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}
